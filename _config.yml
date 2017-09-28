@@ -8,7 +8,7 @@ description: Rachel Comerford's site
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile.jpg
+picture: assets/images/profile.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: rallyfora11y
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -50,14 +50,14 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: rachel.comerford@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Rachel Comerford
+        bio: Bio
         external-image: false
-        picture: assets/images/profile.jpg
+        picture: assets/images/profile.png
         twitter: johndoe
     jamesfoster:
         name: James Foster
