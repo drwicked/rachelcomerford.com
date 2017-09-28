@@ -42,29 +42,23 @@ twitter: rallyfora11y
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: RachelComerford
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: rachel.comerford@gmail.com
 
 authors:
-    johndoe:
+    rachel:
         name: Rachel Comerford
         bio: Bio
         external-image: false
         picture: assets/images/profile.png
         twitter: johndoe
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
