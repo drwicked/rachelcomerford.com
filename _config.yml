@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Rachel Comerford
+bio: finally
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Rachel Comerford's site
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://www.rachelcomerford.com
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
